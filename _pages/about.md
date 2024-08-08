@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI Policy</a>. Current: McKinsey | Past: U.S. Department of State, Federal Trade Commission, Georgetown University
+subtitle: <a href='#'>AI Policy</a>. Currently @ McKinsey
 
 profile:
   align: right
